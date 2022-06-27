@@ -1,0 +1,16 @@
+{
+    "name": "svfcode/php-lib-check_brackets",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SVFCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SVFCode",
+            "email": "svfcode@mail.ru"
+        }
+    ],
+    "require": {}
+}
